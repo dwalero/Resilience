@@ -66,7 +66,7 @@ extension ChoiceQuestionViewController: UITableViewDataSource {
     }
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         guard let cell = tableView.dequeueReusableCell(withIdentifier: "choice") as? ChoiceCell else { return UITableViewCell() }
-        let choices = (question?.choices?.sorted { $0.order ?? 0 < $1.order ?? 0 })!
+        guard let choices = (question?.choices?.sorted { $0.order ?? 0 < $1.order ?? 0 }) else { return UITableViewCell() }
         cell.setChoice(choice: choices[indexPath.row])
         cell.delegate = self
         return cell
