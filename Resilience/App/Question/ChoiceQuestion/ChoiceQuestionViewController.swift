@@ -12,7 +12,7 @@ protocol CellInfo {
     func displayInfo(info:String)
 }
 
-class ChoiceQuestionViewController: UIViewController {
+class ChoiceQuestionViewController: UIViewController, QuestionViewProtocol {
     var question: Question?
     @IBOutlet var questionLabel: UILabel!
     @IBOutlet var nextButton: UIButton!
