@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7419404D-18E1-4D5B-84DF-39354549E07E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7307714-C8B1-43BF-85B6-BAEF52D91D9B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Resilience/App/Spashscreen/SplashscreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "B7307714-C8B1-43BF-85B6-BAEF52D91D9B - aef88bfa7ebc8385"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Resilience.SpashscreenViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Resilience"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damien.walerowicz/Documents/Project/Personal/iOS/Resilience/Resilience/App/Spashscreen/SplashscreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "588">
+               </Location>
+               <Location
+                  uuid = "B7307714-C8B1-43BF-85B6-BAEF52D91D9B - e6930b81915629f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Resilience.SpashscreenViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Resilience"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damien.walerowicz/Documents/Project/Personal/iOS/Resilience/Resilience/App/Spashscreen/SplashscreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD4F6912-E115-4882-990B-F0F1D5C1EC72"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Resilience/App/Question/ChoiceQuestion/ChoiceQuestionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "tableView(_:didDeselectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD4F6912-E115-4882-990B-F0F1D5C1EC72 - 91b32a8283fc18f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Resilience.ChoiceQuestionViewController.tableView(_: __C.UITableView, didDeselectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Resilience"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damien.walerowicz/Documents/Project/Personal/iOS/Resilience/Resilience/App/Question/ChoiceQuestion/ChoiceQuestionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "AD4F6912-E115-4882-990B-F0F1D5C1EC72 - 91b32a8283fc18f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Resilience.ChoiceQuestionViewController.tableView(_: __C.UITableView, didDeselectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Resilience"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damien.walerowicz/Documents/Project/Personal/iOS/Resilience/Resilience/App/Question/ChoiceQuestion/ChoiceQuestionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
